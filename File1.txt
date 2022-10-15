@@ -1,1 +1,3 @@
 Exemplo ficheiro 1
+
+!!!!!Alterações efetuadas no branch NovaFeature!!!!!
