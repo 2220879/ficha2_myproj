@@ -1,1 +1,1 @@
-Exemplo ficheiro 1
+Alteração no branch NOVAFEATURE
